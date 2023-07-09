@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamPatel81
 - 👀 I’m interested in Full Stack development 
 - 🌱 I’m currently learning Java Script 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Small Project 
 - 📫 How to reach me 
 
 <!---
