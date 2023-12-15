@@ -2,15 +2,13 @@
 <h3 align="center">A passionate full Stack developer </h3>
 
 
+<img align="right" src="img1.jpg" height = 300px width=520px alt="Image to download ">
+ 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatel81&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatel81" /> </p>
 
 - 📫 How to reach me **shubhampatel872005@gmail.com**
-
-
-<img align="right" src="" alt="Description of the remote image">
-
-
-
+- 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/shubham07132581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shubham07132581" height="30" width="40" /></a>
