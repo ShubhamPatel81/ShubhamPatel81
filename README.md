@@ -7,8 +7,7 @@
 - 📫 How to reach me **shubhampatel872005@gmail.com**
 
 
-<img align="right" src="![123](https://github.com/ShubhamPatel81/ShubhamPatel81/assets/131590121/6259c000-203c-402f-a31c-dfe38c461673)
-" alt="Description of the remote image">
+<img align="right" src="" alt="Description of the remote image">
 
 
 
