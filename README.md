@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
 <h2 align="center">A passionate to full Stack developer </h2>
 <img align="right" src="img1.jpg" height = 60% width= 50% alt="Image to download ">
+
+
 - 🔭 I’m currently learning **MERN Stack**
 - 📫 How to reach me **shubhampatel872005@gmail.com**
 ## Coading Profile
