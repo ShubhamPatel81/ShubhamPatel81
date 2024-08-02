@@ -29,7 +29,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring Boot-007396?style=for-the-badge&logo=Spring Boot&logoColor=green)
+
 
 
 
