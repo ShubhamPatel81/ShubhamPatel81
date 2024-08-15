@@ -3,7 +3,7 @@
 <img align="right" src="img1.jpg" height = 60% width= 50% alt="Image to download ">
 
 
-- 🔭 I’m currently learning **MERN Stack**
+- 🔭 I’m currently learning **Spring Boot**
 - 📫 How to reach me **shubhampatel872005@gmail.com**
 ## Coading Profile
 <p align="left">
