@@ -3,7 +3,7 @@
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
 - 🔭 I’m currently learning **Spring Boot**
-- 📫 How to reach me **shubhampatel872005@gmail.com**
+- 📫 How to reach me **[shubhampatel872005@gmail.com](https://www.linkedin.com/in/shubham-patel-8b296b243/)**
 
 ## Coding Profile
 <p align="left">
