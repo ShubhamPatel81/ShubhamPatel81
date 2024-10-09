@@ -27,7 +27,5 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Reactive Programming](https://img.shields.io/badge/Reactive%20Programming-007396?style=for-the-badge&logo=java&logoColor=white)
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-![Followers](https://img.shields.io/github/followers/yourusername?style=social
 
 
