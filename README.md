@@ -1,3 +1,4 @@
+<img src="https://github.com/novojitdas/novojitdas/blob/main/icons/Rainbow.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
 <h2 align="center">A passionate Full Stack Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
@@ -32,5 +33,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+
+<img src="https://github.com/novojitdas/novojitdas/blob/main/icons/Rainbow.gif" width="100%">
 
 
