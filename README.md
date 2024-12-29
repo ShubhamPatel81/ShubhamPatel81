@@ -1,6 +1,6 @@
 <img src="https://github.com/novojitdas/novojitdas/blob/main/icons/Rainbow.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
-<h2 align="center">A passionate Full Stack Developer</h2>
+<h2 align="center">A passionate to JAVAFull Stack Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
 - 🔭 I’m currently learning **Spring Boot**
