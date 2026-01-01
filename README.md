@@ -30,6 +30,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-8F53F7?style=for-the-badge&logo=n8n&logoColor=white)
 ![Reactive Programming](https://img.shields.io/badge/Reactive%20Programming-4A3C50?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
